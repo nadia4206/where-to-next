@@ -6,7 +6,7 @@ function Home () {
 
     return (
      <div>
-      <header>
+      <header class="text-center">
         <h1>Where To Next??</h1>
         <h2>Keep track of your bucket list destinations and get inspired for future trips!</h2>
        </header>
