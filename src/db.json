@@ -1,0 +1,17 @@
+{
+    "trips": [
+        {
+            "id": 1,
+            "city": "",
+            "country": "",
+            "image": "",
+            "cost": "",
+            "season": "",
+            "attractions": {
+                "attraction_1": "",
+                "attraction_2": "",
+                "attraction_3": ""
+            }
+          }
+        ]
+      }
